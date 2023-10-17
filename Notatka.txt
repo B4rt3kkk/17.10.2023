@@ -6,5 +6,18 @@ Temat:Tablice styczne - ćwiczenia.
 
 = to operator przypisania
 == to poerator równości 
+=== to operator porówania wartości i typu zmiennej
+for (start, warunek stopu, operator inkrementacji/decrementacji){
+	// kod wykonujący sue tyle tazy dopóki nei osiągnięto war.stop
+}
+operator increment: to taki który przyjume postać:
+zmienna++; zwiększa wartość o 1 po każdu, przejsciu pętli
+"zmienna = zmeinna + 1;" to samo co zmienna++;" to samo co 
+zmienna += 1 ;"
 
- 
+operator dekremenatacji:
+zmienn -- ;
+zmienn = zmienna - 1;
+zmienna -=1;
+
+zmienna++; ++zmienna;
