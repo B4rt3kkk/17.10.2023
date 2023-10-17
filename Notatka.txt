@@ -1,0 +1,10 @@
+		Lekcja (Pierwsza)
+Temat: Powtórka wyrażenie warunkowe skrótowe.
+
+		Lekcja (Druga)
+Temat:Tablice styczne - ćwiczenia.
+
+= to operator przypisania
+== to poerator równości 
+
+ 
